@@ -101,7 +101,7 @@ h1 > span {
 }
 
 .right-content {
-    flex: 1;
+    height: 100%;
     background-color: var(--clr-Accent);
 }
 
