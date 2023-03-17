@@ -49,6 +49,7 @@ main {
 }
 
 .left-content {
+    flex: 1;
     padding: 4rem 10rem 4rem 4rem;
     display: flex;
     flex-direction: column;
